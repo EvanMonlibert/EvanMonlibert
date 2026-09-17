@@ -56,11 +56,11 @@
 > 
 > <div align="center">
 > 
-> <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=008F11" alt="Matrix Stats" />
+> <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=008F11" alt="Matrix Stats" />
 > 
 > <br/>
 > 
-> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME_ICI&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41" alt="Matrix Streak" />
+> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_GITHUB&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41" alt="Matrix Streak" />
 > 
 > </div>
 > 
